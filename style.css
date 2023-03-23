@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: #FBDA61;
+    background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+    height: 100vh;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.center {
+    text-align: center;
+    background-color: #ffffff4e;
+    margin: 15vh auto;
+    width: 110vh;
+    height: 70vh;
+    border-radius: 30px;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 1em;
+}
+
+.numbers {
+    width: 2em;
+    font-size: 5em;
+    text-align: center;
+}
+
+span {
+    font-size: 5em;
+}
+
+.somar {
+    font-size: 2em;
+    width: 5em;
+    height: 2em;
+    margin-left: 1em;
+}
+
+#resp {
+    margin-top: 1em;
+    font-size: 2em;
+}
+
+footer {
+    background-color: #000000c6;
+    height: 2em;
+    font-size: 1.5em;
+    text-align: center;
+    color: #fff;
+}
+
+
+
